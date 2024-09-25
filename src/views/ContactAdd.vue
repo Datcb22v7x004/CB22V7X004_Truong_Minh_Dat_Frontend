@@ -12,7 +12,8 @@ import ContactService from "@/services/contact.service";
 export default {
   components: {
     ContactForm,
-  },
+  }, 
+  
   data() {
     return {
       message: "",
